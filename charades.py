@@ -12,6 +12,6 @@ for playerNum in range(int(numPlayers)):
         response = requests.get("https://random-word-form.herokuapp.com/random/noun")
         pointResponse = requests.get("http://www.randomnumberapi.com/api/v1.0/random?min=100&max=1000&count=1")
         print(response.json()[0] + " " + str(pointResponse.json()[0]))
-    
+    print("***********************************************")
     time.sleep(120)
 
