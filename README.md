@@ -1,4 +1,13 @@
-Charades
+**************************************************************
+                    Charades
+
+                    Contributors:
+                        Jason Nguyen
+                        Miles Lyons
+                        Calvin Aduma
+                        Joshua Tyler Hunt
+
+**************************************************************
 
 This simple python program will generate a random word and random point value associated with that word to assist in playing a game of charades.
 
